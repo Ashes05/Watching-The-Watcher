@@ -1,0 +1,8 @@
+
+<!-- =====================
+      Smart Watch app UI
+     ===================== -->
+<svg>
+  <text id="hrm" class="large-value">42</text>
+  <text id="onOff"></text>
+</svg>

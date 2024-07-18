@@ -1,0 +1,30 @@
+/* =====================
+    Smart Watch app CSS
+   ===================== */
+
+svg {
+  viewport-fill: #044d7a;
+}
+
+#hrm {
+  font-size: 80;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  fill: #ffffff;
+  x: 50%;
+  text-anchor: middle; 
+  display-align: center;
+
+}
+
+#onOff {
+  font-size: 30;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  fill: #ffffff;
+  x: 50%;
+  y: 70%;
+  display-align: center;
+}
