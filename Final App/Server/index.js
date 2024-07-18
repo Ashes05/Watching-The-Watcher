@@ -22,7 +22,7 @@ const app = express();
 const uri = "Enter your own MongoDB atlas database";
 
 // const firebaseConfig = {
-//   apiKey: "AIzaSyDs6V5xIewGNrH8A1S534sXGZMcfzXiBCI",
+//   apiKey: "",
 //   authDomain: "bpm-tracker.firebaseapp.com",
 //   databaseURL: "https://bpm-tracker-default-rtdb.europe-west1.firebasedatabase.app",
 //   projectId: "bpm-tracker",
