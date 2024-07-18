@@ -19,7 +19,7 @@ const functions = require("firebase-functions")
 // const { getFirestore, addDoc , collection } = require ("firebase/firestore");
 
 const app = express(); 
-const uri = "mongodb+srv://aislingmulral:ncsGtSaCXB0r9cMG@assignment05.tpeh5ur.mongodb.net/?retryWrites=true&w=majority&appName=Assignment05";
+const uri = "Enter your own MongoDB atlas database";
 
 // const firebaseConfig = {
 //   apiKey: "AIzaSyDs6V5xIewGNrH8A1S534sXGZMcfzXiBCI",
